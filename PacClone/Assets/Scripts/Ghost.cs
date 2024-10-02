@@ -29,7 +29,6 @@ public class Ghost : MonoBehaviour
     {
         pathfinding.isStopped = frozen;
         pathfinding.destination = GameController.GC.GetPacPos();
-
         
     }
 

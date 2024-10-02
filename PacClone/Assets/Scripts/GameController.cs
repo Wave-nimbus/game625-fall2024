@@ -54,6 +54,11 @@ public class GameController : MonoBehaviour
         return PacManPos.position;
     }
 
+    public Transform GetPacTrans()
+    {
+        return PacManPos;
+    }
+
     public void IncreaseScore(int amount)
     {
         score += amount;
