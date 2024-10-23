@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 65ca6669b743aa0429a547c6641bec1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orcPrefab: {fileID: 434277001748200318, guid: 04b8a70a6716b09459d4fa08803331ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
